@@ -1,3 +1,5 @@
+![Clinton | Crypto Professor](banner.jpg)
+
 # Clinton | Crypto Professor 🎓🐳
 
 **Crypto Professor | Daily Airdrops, Testnets & Web3 Alpha | Whale Moves + Project Breakdowns | DM open for collabs 📩**
