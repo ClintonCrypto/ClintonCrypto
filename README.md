@@ -1,16 +1,15 @@
-## Hi there 👋
+# Clinton | Crypto Professor 🎓🐳
 
-<!--
-**ClintonCrypto/ClintonCrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Crypto Professor | Daily Airdrops, Testnets & Web3 Alpha | Whale Moves + Project Breakdowns | DM open for collabs 📩**
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐳 Whale & on-chain move tracking
+- 🔍 New project breakdowns
+- 🪂 Airdrops & testnets — tracked daily
+
+## Find me
+
+- **X (Twitter):** https://x.com/Airdr0p360
+- **Telegram:** https://t.me/Bestcryptolooter
+- **All links:** https://linktr.ee/clintoncrypto
